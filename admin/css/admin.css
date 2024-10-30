@@ -1,0 +1,26 @@
+.floating-chat-button-settings .form-table {
+    margin-top: 20px;
+}
+
+.floating-chat-button-settings .form-table th {
+    padding: 20px 10px 20px 0;
+}
+
+.floating-chat-button-settings .wp-picker-container {
+    display: inline-block;
+}
+
+.color-picker-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.color-picker-container .wp-picker-container {
+    margin-right: 10px;
+}
+
+.reset-color {
+    height: 30px;
+    margin-top: 1px !important;
+}
